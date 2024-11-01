@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\User_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\User_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\UserControl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\UserControl1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\SignUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\SignUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\MyOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\MyOrders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Login.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Admin_home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\Admin_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_list.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\User_list.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\User_list.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\User_list.cs",
+              "RelativeToolTip": "InventorySystem\\User_list.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:48.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userdetail.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\userdetail.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\userdetail.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\userdetail.cs",
+              "RelativeToolTip": "InventorySystem\\userdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\UserControl1.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\UserControl1.cs",
+              "RelativeToolTip": "InventorySystem\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:42.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\SignUp.cs",
+              "RelativeToolTip": "InventorySystem\\SignUp.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvyEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Program.cs",
+              "RelativeToolTip": "InventorySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\MyOrders.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\MyOrders.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\MyOrders.cs",
+              "RelativeToolTip": "InventorySystem\\MyOrders.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:50.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Login.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Login.cs",
+              "RelativeToolTip": "InventorySystem\\Login.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvyAAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:29.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Home.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Home.cs",
+              "RelativeToolTip": "InventorySystem\\Home.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvzYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Confirm.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Confirm.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Confirm.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Confirm.cs",
+              "RelativeToolTip": "InventorySystem\\Confirm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADgvy0AAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:48.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.Designer.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.Designer.cs",
+              "RelativeToolTip": "InventorySystem\\Admin_home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:44.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_home.cs",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Admin_home.cs",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\Admin_home.cs",
+              "RelativeToolTip": "InventorySystem\\Admin_home.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADgv2wAAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:37:28.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "01 LOGIN DETAILS \u0026 PROJECT INFO.txt",
+              "DocumentMoniker": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt",
+              "RelativeDocumentMoniker": "InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt",
+              "ToolTip": "C:\\Users\\Rejean Mae P. Cuaton\\source\\repos\\InventoryManagementSystem\\InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt",
+              "RelativeToolTip": "InventorySystem\\01 LOGIN DETAILS \u0026 PROJECT INFO.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-31T19:37:10.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

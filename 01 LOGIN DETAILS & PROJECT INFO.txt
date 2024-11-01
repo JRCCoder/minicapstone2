@@ -1,0 +1,16 @@
+
+**Database Name: capstone2**
+**Admin Login Details**
+
+Username: admin
+Password: password123
+
+**Manager Login Details**
+
+Username: sti
+Password: capstone2
+
+**User Login Details**
+
+Username: paul123
+Password: capstone2
