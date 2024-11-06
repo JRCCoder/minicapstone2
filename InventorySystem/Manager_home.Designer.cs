@@ -519,7 +519,7 @@
             this.bunifuTransition2.SetDecoration(this.part, BunifuAnimatorNS.DecorationType.None);
             this.part.Location = new System.Drawing.Point(197, 183);
             this.part.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.part.Name = "part";
+            this.part.Name = "Product Name";
             this.part.Size = new System.Drawing.Size(181, 22);
             this.part.TabIndex = 92;
             this.part.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;

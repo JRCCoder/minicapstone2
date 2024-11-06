@@ -154,7 +154,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "insert into `spareparts`(`model`,`part`,`type`,`price`,`instock`) values('" + model.Text.Trim() + "','" + part.Text.Trim() + "','" + comboBox1.Text.Trim() + "','" + price.Text.Trim() + "','" + instock.Text.Trim() + "')";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -182,7 +182,7 @@ namespace InventorySystemCsharp
         /*The function tht fills the datagridview*/
         void FillGridView()
         {
-            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
             MySqlDataAdapter sda = new MySqlDataAdapter("select * from spareparts ", conn);
             DataTable dt = new DataTable();
             sda.Fill(dt);
@@ -213,7 +213,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "update `spareparts` set `model`= '" + u_modelTxt.Text + "',`part`= '" + u_partTxt.Text + "',`type`= '" + u_typeCombo.Text + "',`price`='" + u_priceTxt.Text + "', `instock`= '" + u_stockTxt.Text + "'where `id`= '"+ u_itemcodeTxt.Text +"' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -245,7 +245,7 @@ namespace InventorySystemCsharp
         /*The function tht fills the datagridview*/
         void FillUpdateGridView()
         {
-            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
             MySqlDataAdapter u_sda = new MySqlDataAdapter("select * from spareparts ", conn);
             DataTable u_dt = new DataTable();
             u_sda.Fill(u_dt);
@@ -276,7 +276,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "delete from `spareparts` where `id`= '" + d_itemcodeTxt.Text + "' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -307,7 +307,7 @@ namespace InventorySystemCsharp
         /*The function tht fills delete the datagridview*/
         void FilldeleteGridView()
         {
-            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
             MySqlDataAdapter d_sda = new MySqlDataAdapter("select * from spareparts ", conn);
             DataTable d_dt = new DataTable();
             d_sda.Fill(d_dt);
@@ -339,7 +339,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "update `orders` set `paid`= '" + "no" + "'where `id`= '" + p_order_idTxt.Text + "' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -370,7 +370,7 @@ namespace InventorySystemCsharp
         void FillPaidGridView()
         {
             String status = "yes";
-            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
             MySqlDataAdapter p_sda = new MySqlDataAdapter("select * from orders where paid = '"+ status +"' ", conn);
             DataTable p_dt = new DataTable();
             p_sda.Fill(p_dt);
@@ -398,7 +398,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "update `orders` set `paid`= '" + "cancelled" + "'where `id`= '" + p_order_idTxt.Text + "' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -434,7 +434,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "update `orders` set `paid`= '" + "yes" + "'where `id`= '" + unp_orderidTxt.Text + "' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
@@ -465,7 +465,7 @@ namespace InventorySystemCsharp
         void FillUnpaidGridView()
         {
             String status = "no";
-            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+            MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
             MySqlDataAdapter unp_sda = new MySqlDataAdapter("select * from orders where paid = '" + status + "' ", conn);
             DataTable unp_dt = new DataTable();
             unp_sda.Fill(unp_dt);
@@ -493,7 +493,7 @@ namespace InventorySystemCsharp
             {
                 try
                 {
-                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=inventorymgcsharp;");
+                    MySqlConnection conn = new MySqlConnection(@"datasource=127.0.0.1;port=3306;SslMode=none;username=root;password=;database=capstone2;");
                     string query = "update `orders` set `paid`= '" + "cancelled" + "'where `id`= '" + unp_orderidTxt.Text + "' ";
                     MySqlCommand cmd = new MySqlCommand(query, conn);
                     conn.Open();
